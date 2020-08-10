@@ -1,4 +1,4 @@
-# 4pychan Label Classification
+# 4chan Label Classification
 """
 @created on: 05/10/20,
 @author: Meghna Muralidharan,
