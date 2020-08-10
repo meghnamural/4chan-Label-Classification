@@ -1,0 +1,13 @@
+pandas
+sklearn
+numpy
+requests
+json
+textblob
+nltk
+matplotlib
+html
+wordcloud
+re
+scipt
+datetime
