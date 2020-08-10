@@ -1,4 +1,4 @@
-# -- coding: utf-8 --
+# 4pychan Label Classification
 """
 @created on: 05/10/20,
 @author: Meghna Muralidharan,
